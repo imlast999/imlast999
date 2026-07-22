@@ -168,5 +168,5 @@ A quantitative trading platform built around reproducible research, execution qu
 
 # Contact
 
-- **GitHub:** https://github.com/yourusername
+- **GitHub:** https://t.me/imlast999
 - **Project:** LastEdge
