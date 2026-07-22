@@ -1,172 +1,154 @@
-# Last
+<div align="center">
+
+# imlast999
+
+### Software Engineer focused on Quantitative Trading Systems
 
 > **Research. Validate. Execute. Improve.**
 
-Building professional algorithmic trading software focused on research, execution quality and long-term maintainability.
+Building software where every improvement is driven by evidence, reproducible research and long-term maintainability.
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MetaTrader 5](https://img.shields.io/badge/MetaTrader_5-0055A4?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
 
 ---
 
-# About Me
+# 👋 About Me
 
-I'm a software developer currently focused on building **LastEdge**, an algorithmic trading platform designed around one simple idea:
+I'm a software developer currently building **LastEdge**, a quantitative trading platform focused on research, execution quality and long-term maintainability.
+
+I enjoy designing systems that are:
+
+- Clean
+- Scalable
+- Data-driven
+- Built to evolve
+
+Rather than continuously adding features, I prefer refining existing systems until every component has a clear purpose.
+
+---
+
+# 🚀 Current Project
+
+## LastEdge
+
+LastEdge is a quantitative trading platform designed around one fundamental principle:
 
 > Every trading decision should be supported by reproducible research.
 
-Rather than chasing short-term results or adding unnecessary complexity, I enjoy designing systems that are clean, scalable and built to last.
+The project combines multiple independent systems into a single ecosystem:
 
-My interests revolve around:
+- 📈 Trading Engine
+- 🧪 Research Lab
+- 📊 Risk Engine
+- 📱 Mobile Application
+- 🌐 Web Dashboard
+- ⚙️ MetaTrader 5 Integration
 
-- Algorithmic Trading
-- Software Architecture
-- Quantitative Research
-- Mobile Applications
-- Backend Development
-- System Design
-- Automation
-
----
-
-# Main Project — LastEdge
-
-LastEdge is a complete quantitative trading platform composed of several independent but connected systems.
-
-### Current ecosystem
-
-- Trading Engine
-- Strategy Framework
-- Risk Engine
-- Exit Research
-- Walk Forward Analysis
-- Monte Carlo Validation
-- Research Lab
-- Web Dashboard
-- Mobile Application
-- MetaTrader 5 Integration
-
-The project follows a **research-first philosophy**, where every strategy must prove itself through evidence before becoming part of the production system.
+Current development focuses on transforming LastEdge into a professional research platform capable of validating trading strategies before they reach production.
 
 ---
 
-# Engineering Principles
+# 🛠 What I Enjoy Building
 
-These principles guide every decision made inside LastEdge.
-
-## 🔬 Research First
-
-Ideas are interesting.
-
-Evidence is valuable.
-
-Every feature should produce measurable improvements.
-
----
-
-## ⚡ Simplicity
-
-The best solution is often the simplest one.
-
-Complexity is introduced only when it provides clear value.
+- 📈 Algorithmic Trading Systems
+- 🧠 Software Architecture
+- 📱 Mobile Applications
+- ⚙️ Backend Development
+- 🔬 Quantitative Research Tools
+- 🤖 Automation Systems
+- 📊 Data Analysis
+- 🚀 Long-term Software Projects
 
 ---
 
-## 🏗️ Long-Term Thinking
+# 🎯 Current Focus
 
-The goal isn't to create something that works today.
-
-The goal is to build a platform capable of evolving for years without becoming difficult to maintain.
-
----
-
-## 🧩 Clean Architecture
-
-Every module has a single responsibility.
-
-A well-organized repository is just as important as well-written code.
-
----
-
-# Current Focus
-
-Current development is mainly centered around:
+At the moment I'm mainly working on:
 
 - Improving execution quality
-- Measuring latency and slippage
+- Measuring latency & slippage
 - Expanding the Research Lab
-- Mobile experience
 - Repository architecture
+- Mobile experience
 - Documentation
 - Strategy validation
 
 ---
 
-# Technologies
+# 💡 Engineering Philosophy
 
-## Languages
+I believe great software isn't built by adding more features.
 
-- Python
-- TypeScript
-- JavaScript
-- SQL
+It's built by continuously refining existing systems until every module becomes reliable, maintainable and easy to extend.
 
-## Frameworks
-
-- React Native
-- Expo
-- Flask
-- MetaTrader 5 API
-
-## Tools
-
-- Git
-- GitHub
-- Android Studio
-- VS Code
-- Kiro
-- Antigravity
+Good architecture is an investment that pays dividends for years.
 
 ---
 
-# Philosophy
-
-I don't believe successful trading systems are created by finding the perfect strategy.
-
-I believe they're created by building an environment where ideas can be tested, measured, validated and improved continuously.
-
-**That is the purpose of LastEdge.**
-
----
-
-# Roadmap
-
-Current priorities:
-
-- Stable Mobile Platform
-- Repository Reorganization
-- Advanced Research Workflows
-- Execution Quality Improvements
-- Portfolio Management
-- Multi-Strategy Architecture
-
----
-
-# Featured Project
+# 📌 Featured Project
 
 ## 🚀 LastEdge
 
-A quantitative trading platform built around reproducible research, execution quality and long-term maintainability.
+> Professional Quantitative Trading Platform
 
-**Core areas**
+**Current ecosystem**
 
-- 📈 Algorithmic Trading
-- 🧪 Quantitative Research
-- 📊 Risk Management
-- 📱 Mobile Control Center
-- 🌐 Web Dashboard
-- ⚙️ MetaTrader 5 Integration
+- Trading Engine
+- Research Framework
+- Exit Research
+- Walk Forward Analysis
+- Monte Carlo Validation
+- Risk Management
+- Mobile Control Center
+- Web Dashboard
+
+➡️ *The complete project documentation is available inside the LastEdge repository.*
 
 ---
 
-# Contact
+# 📚 Currently Learning
 
-- **GitHub:** https://t.me/imlast999
-- **Project:** LastEdge
+- Advanced Software Architecture
+- Quantitative Research Methodologies
+- High-performance Python
+- Mobile UX
+- System Design
+- Execution Optimization
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=imlast999&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imlast999&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+---
+
+# 🤝 Connect
+
+- **GitHub:** https://github.com/imlast999
+- **Main Project:** LastEdge
+
+---
+
+<div align="center">
+
+### Research • Validate • Execute • Improve
+
+</div>
