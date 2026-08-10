@@ -177,3 +177,6 @@ I enjoy creating software designed to evolve over the years rather than solving 
 ⭐ Building **LastEdge**, one improvement at a time.
 
 </div>
+
+
+<a href="https://grademe.fr/app/user/2b062535-a21b-46bc-b3c8-042c83241752"><img src="https://grademe.fr/api/cards/b0d7689d-6a64-46fe-8c6f-5a05bb91a85b.svg" alt="Grademe profile card for @imlast999" width="1200" height="420" style="max-width: 100%; height: auto;"></a>
