@@ -133,7 +133,7 @@ Rather than chasing complexity for its own sake, I build deterministic systems e
 
 # 📂 Other Featured Repositories
 
-- 🦈 **[millionaire-sharks-tg-bot](https://github.com/imlast999/millionaire-sharks-tg-bot)**: High-throughput Telegram automation bot for quantitative alert broadcasting and community analytics.
+- 🚀 **[telegram-community-bot](https://github.com/imlast999/telegram-community-bot)**: Production-ready Telegram Community & Crypto BuyBot built with TypeScript, grammY, Prisma, and DexScreener API.
 - ⚡ **[cs-arbitrage](https://github.com/imlast999/cs-arbitrage)**: Cross-market algorithmic arbitrage and liquidity spread monitoring algorithms.
 - 🎓 **[grademe-portfolio](https://github.com/imlast999/grademe-portfolio)**: Rigorous algorithmic problem-solving repository with solutions validated by automated grading suites.
 
